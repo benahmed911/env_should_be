@@ -1,6 +1,4 @@
-![cover](https://raw.githubusercontent.com/wassef911/env_should_be/master/cover.png)
-
-[click to read first article about this package](https://dev.to/wassef911/ship-slightly-better-microservices-4i1m)
+![cover](https://raw.githubusercontent.com/benahmed911/env_should_be/master/cover.png)
 
 [latest version on pypi](https://pypi.org/project/env-should-be/)
 
